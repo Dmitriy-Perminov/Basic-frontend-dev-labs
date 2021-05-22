@@ -1,0 +1,79 @@
+/* Testimonials */
+
+position: absolute;
+left: 6.69%;
+right: 63.25%;
+top: 60.81%;
+bottom: 38.3%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+text-align: center;
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* “Quisque in lacus a urna fermentum euismod. Integer mi nibh, dapibus ac scelerisque eu, facilisis quis purus. Morbi blandit sit amet turpis nec” */
+
+position: absolute;
+left: 15%;
+right: 56.88%;
+top: 65.26%;
+bottom: 32.16%;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+/* or 150% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* Edward Newgate */
+
+position: absolute;
+left: 15%;
+right: 73.56%;
+top: 68.56%;
+bottom: 30.58%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 48px;
+/* identical to box height, or 218% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* Founder Circle */
+
+position: absolute;
+left: 15%;
+right: 77.25%;
+top: 69.18%;
+bottom: 29.96%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 48px;
+/* identical to box height, or 267% */
+
+color: rgba(0, 0, 0, 0.85);
+
+mix-blend-mode: normal;

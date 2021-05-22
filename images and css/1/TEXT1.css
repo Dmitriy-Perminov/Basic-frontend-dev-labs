@@ -1,0 +1,36 @@
+/* Explore and Travel */
+
+position: absolute;
+left: 11.81%;
+right: 65.94%;
+top: 3.58%;
+bottom: 93.56%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 80px;
+/* or 125% */
+
+color: #202336;
+
+mix-blend-mode: normal;
+
+
+/* Holiday finder */
+
+position: absolute;
+left: 11.94%;
+right: 78.75%;
+top: 7.77%;
+bottom: 91.75%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #202336;

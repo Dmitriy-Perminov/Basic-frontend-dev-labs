@@ -1,0 +1,44 @@
+/* Thousand-03 */
+
+position: absolute;
+left: 48.12%;
+right: 14.44%;
+top: 46.67%;
+bottom: 43.63%;
+
+background: url(Thousand-03.png);
+
+
+/* element3 */
+
+position: absolute;
+left: 17.81%;
+right: 80.94%;
+top: 48.19%;
+bottom: 51.45%;
+
+background: linear-gradient(156.14deg, #BFF0DD 12.18%, #57D2A3 87.99%);
+
+
+/* element2 */
+
+position: absolute;
+left: 41.44%;
+right: 57.31%;
+top: 54.19%;
+bottom: 45.45%;
+
+background: #FDD08D;
+transform: rotate(20.42deg);
+
+
+/* element */
+
+position: absolute;
+left: 89.36%;
+right: 9.64%;
+top: 47.33%;
+bottom: 52.38%;
+
+background: #FDD08D;
+transform: rotate(9.99deg);

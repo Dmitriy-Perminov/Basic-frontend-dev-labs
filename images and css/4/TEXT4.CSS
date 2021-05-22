@@ -1,0 +1,82 @@
+/* guides by */
+
+position: absolute;
+width: 481px;
+height: 303px;
+left: 240px;
+top: 2760px;
+
+
+
+/* Rectangle 41 */
+
+position: absolute;
+left: 15%;
+right: 74.75%;
+top: 53.85%;
+bottom: 45.29%;
+
+background: #FB8F1D;
+border-radius: 8px;
+
+
+/* Download */
+
+position: absolute;
+left: 17.69%;
+right: 77.44%;
+top: 53.74%;
+bottom: 45.19%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 60px;
+/* identical to box height, or 375% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+
+
+/* Guides by Thousand Sunny */
+
+position: absolute;
+left: 15%;
+right: 54.94%;
+top: 49.39%;
+bottom: 48.82%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* or 139% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* Packed with tips and advice from our on-the-ground experts, our city guides app (iOS and Android) is the ultimate resource before and during a trip. */
+
+position: absolute;
+left: 15%;
+right: 56.88%;
+top: 51.54%;
+bottom: 46.85%;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;

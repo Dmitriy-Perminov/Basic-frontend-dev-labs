@@ -1,0 +1,92 @@
+/* a new way... */
+
+position: absolute;
+width: 481px;
+height: 333px;
+left: 902px;
+top: 1203px;
+
+
+
+/* learn more btn */
+
+position: absolute;
+width: 164px;
+height: 60px;
+left: 902px;
+top: 1476px;
+
+
+
+/* Rectangle 36 */
+
+position: absolute;
+left: 56.38%;
+right: 33.38%;
+top: 26.52%;
+bottom: 72.62%;
+
+background: #FB8F1D;
+border-radius: 8px;
+
+
+/* Learn more */
+
+position: absolute;
+left: 58.81%;
+right: 35.69%;
+top: 26.41%;
+bottom: 72.51%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 60px;
+/* identical to box height, or 375% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+
+
+/* A new way to explore the world */
+
+position: absolute;
+left: 56.38%;
+right: 13.56%;
+top: 21.53%;
+bottom: 76.68%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* or 139% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* For decades travellers have reached for Lonely Planet books when looking to plan and execute their perfect trip, but now, they can also let Lonely Planet Experiences lead the way */
+
+position: absolute;
+left: 56.38%;
+right: 15.5%;
+top: 23.68%;
+bottom: 74.18%;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;

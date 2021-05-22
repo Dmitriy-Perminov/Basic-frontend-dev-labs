@@ -1,0 +1,32 @@
+/* Thousand-02 1 */
+
+position: absolute;
+left: 8.81%;
+right: 50%;
+top: 19.81%;
+bottom: 70.63%;
+
+background: url(Thousand-02.png);
+
+
+/* element2 */
+
+position: absolute;
+left: 76.81%;
+right: 21.94%;
+top: 26.29%;
+bottom: 73.35%;
+
+background: linear-gradient(156.14deg, #BFF0DD 12.18%, #57D2A3 87.99%);
+
+
+/* element */
+
+position: absolute;
+left: 51.79%;
+right: 46.96%;
+top: 19.52%;
+bottom: 80.12%;
+
+background: #FDD08D;
+transform: rotate(7.49deg);

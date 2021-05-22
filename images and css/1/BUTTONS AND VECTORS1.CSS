@@ -1,0 +1,102 @@
+/* thousand-01 1 */
+
+position: absolute;
+width: 687px;
+height: 654px;
+left: 808px;
+top: 167px;
+
+background: url(thousand-01.png);
+
+
+/* element3 */
+
+position: absolute;
+left: 41.06%;
+right: 57.68%;
+top: 3.94%;
+bottom: 95.71%;
+
+background: #FDD08D;
+
+
+/* element2 */
+
+position: absolute;
+left: 5%;
+right: 93.38%;
+top: 8.84%;
+bottom: 90.69%;
+
+background: linear-gradient(156.14deg, #BFF0DD 12.18%, #57D2A3 87.99%);
+
+
+/* element */
+
+position: absolute;
+left: 45.75%;
+right: 53%;
+top: 14.01%;
+bottom: 85.63%;
+
+background: linear-gradient(156.14deg, #BFF0DD 12.18%, #57D2A3 87.99%);
+
+
+/* Rectangle 29 */
+
+position: absolute;
+width: 32px;
+height: 2px;
+left: 191px;
+top: 482px;
+
+background: #202336;
+border-radius: 4px;
+
+
+/* Frame */
+
+position: absolute;
+width: 9.5px;
+height: 6px;
+left: 371px;
+top: 558px;
+
+
+/* Frame */
+
+position: absolute;
+width: 9.5px;
+height: 6px;
+left: 371px;
+top: 645px;
+
+
+/* Frame */
+
+position: absolute;
+width: 9.5px;
+height: 6px;
+left: 621px;
+top: 645px;
+
+
+/* Frame */
+
+position: absolute;
+width: 9.5px;
+height: 6px;
+left: 621px;
+top: 558px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #4A4C53;

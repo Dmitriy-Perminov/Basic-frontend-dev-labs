@@ -1,0 +1,301 @@
+/* Trending stories */
+
+position: absolute;
+left: 15%;
+right: 54.94%;
+top: 76.66%;
+bottom: 22.44%;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* view all */
+
+position: absolute;
+width: 79px;
+height: 60px;
+left: 1281px;
+top: 4284px;
+
+
+
+/* View all */
+
+position: absolute;
+left: 80.06%;
+right: 15.94%;
+top: 76.66%;
+bottom: 22.26%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 60px;
+/* identical to box height, or 353% */
+display: flex;
+align-items: center;
+
+color: #FB8F1D;
+
+mix-blend-mode: normal;
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 4px;
+height: 9px;
+left: 1356px;
+top: 4310px;
+
+border: 2px solid #FB8F1D;
+
+
+/* The many benefits of taking a healing holiday */
+
+position: absolute;
+left: 15%;
+right: 71.31%;
+top: 82.93%;
+bottom: 16%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* ‘Helaing holidays’ are on the rise tohelp maximise your health and happines... */
+
+position: absolute;
+left: 15%;
+right: 68.38%;
+top: 84.23%;
+bottom: 14.37%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+
+
+/* Read more */
+
+position: absolute;
+left: 15%;
+right: 68.38%;
+top: 86.04%;
+bottom: 13.46%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 187% */
+
+color: #FB8F1D;
+
+mix-blend-mode: normal;
+
+
+/* The best Kyoto restaurant to try Japanese food */
+
+position: absolute;
+left: 32.88%;
+right: 52%;
+top: 82.93%;
+bottom: 16%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* From tofu to teahouses, here’s our guide to Kyoto’s best restaurants to visit... */
+
+position: absolute;
+left: 32.88%;
+right: 50.5%;
+top: 84.23%;
+bottom: 14.37%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+
+
+/* Read more */
+
+position: absolute;
+left: 32.88%;
+right: 50.5%;
+top: 86.04%;
+bottom: 13.46%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 187% */
+
+color: #FB8F1D;
+
+mix-blend-mode: normal;
+
+
+/* Skip Chichen Itza and head to this remote Yucatan */
+
+position: absolute;
+left: 50.81%;
+right: 33.44%;
+top: 82.93%;
+bottom: 16%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* It’s remote and challenging to get, but braving the jungle and exploring these ruins without the... */
+
+position: absolute;
+left: 50.81%;
+right: 32.56%;
+top: 84.23%;
+bottom: 14.37%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+
+
+/* Read more */
+
+position: absolute;
+left: 50.81%;
+right: 32.56%;
+top: 86.04%;
+bottom: 13.46%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 187% */
+
+color: #FB8F1D;
+
+mix-blend-mode: normal;
+
+
+/* Surf’s up at these beginner spots around the world */
+
+position: absolute;
+left: 68.69%;
+right: 15.62%;
+top: 82.93%;
+bottom: 16%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* If learning to surf has in on your to- do list for a while, the good news is: it’s never too late... */
+
+position: absolute;
+left: 68.69%;
+right: 14.69%;
+top: 84.23%;
+bottom: 14.37%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+
+
+/* Read more */
+
+position: absolute;
+left: 68.69%;
+right: 14.69%;
+top: 86.04%;
+bottom: 13.46%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 187% */
+
+color: #FB8F1D;
+
+mix-blend-mode: normal;

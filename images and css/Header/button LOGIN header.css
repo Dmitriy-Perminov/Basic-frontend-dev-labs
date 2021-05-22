@@ -1,0 +1,43 @@
+/* login btn */
+
+position: absolute;
+width: 132px;
+height: 60px;
+left: 1128px;
+top: 35px;
+
+
+
+/* Rectangle 35 */
+
+position: absolute;
+left: 70.5%;
+right: 21.25%;
+top: 0.77%;
+bottom: 98.44%;
+
+border: 1px solid #FB8F1D;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* Login */
+
+position: absolute;
+left: 73.38%;
+right: 24.12%;
+top: 0.63%;
+bottom: 98.3%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 60px;
+/* identical to box height, or 400% */
+display: flex;
+align-items: center;
+
+color: #FB8F1D;
+
+mix-blend-mode: normal;

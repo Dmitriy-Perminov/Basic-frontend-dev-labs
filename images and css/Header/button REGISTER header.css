@@ -1,0 +1,42 @@
+/* register btn */
+
+position: absolute;
+width: 132px;
+height: 60px;
+left: 1278px;
+top: 35px;
+
+
+
+/* Rectangle 34 */
+
+position: absolute;
+left: 79.88%;
+right: 11.88%;
+top: 0.77%;
+bottom: 98.44%;
+
+background: #FB8F1D;
+border-radius: 8px;
+
+
+/* Register */
+
+position: absolute;
+left: 82.12%;
+right: 14.12%;
+top: 0.63%;
+bottom: 98.3%;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 60px;
+/* identical to box height, or 400% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
