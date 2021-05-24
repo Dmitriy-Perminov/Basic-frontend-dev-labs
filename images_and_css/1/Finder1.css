@@ -1,0 +1,150 @@
+#Explore1{
+position: absolute;
+/*left: 11.88%;
+right: 76.88%;
+top: 12.92%;
+bottom: 86.15%;*/
+width: 180px;
+height: 60px;
+left: 190px;
+top: 718px;
+border: 0.8px solid #ffffff;
+background: #FB8F1D;
+border-radius: 8px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 60px;
+/* identical to box height, or 353% */
+display: flex;
+align-items: center;
+justify-content: center;
+
+color: #ffffff;
+
+mix-blend-mode: normal;
+}
+
+#Location{
+position: absolute;
+/*left: 13.88%;
+right: 81.88%;
+top: 9.9%;
+bottom: 89.92%;*/
+width: 220px;
+height: 52px;
+left: 191px;
+top: 532px;
+border: 0.8px solid #AFB0B9;
+box-sizing: border-box;
+border-radius: 6px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 32px;
+/* or 213% */
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 21px 31px;
+color: #4A4C53;
+background: #ffffff;
+mix-blend-mode: normal;
+}
+
+
+#Activity{
+position: absolute;
+/*left: 29.5%;
+right: 66.75%;
+top: 9.9%;
+bottom: 89.92%;*/
+width: 220px;
+height: 52px;
+left: 441px;
+top: 532px;
+border: 0.8px solid #AFB0B9;
+box-sizing: border-box;
+border-radius: 6px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 32px;
+/* or 213% */
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 21px 31px;
+color: #4A4C53;
+background: #ffffff;
+
+mix-blend-mode: normal;
+}
+
+
+#Grade{
+position: absolute;
+/*left: 13.88%;
+right: 82.38%;
+top: 11.45%;
+bottom: 88.37%;*/
+width: 220px;
+height: 52px;
+left: 191px;
+top: 619px;
+border: 0.8px solid #AFB0B9;
+box-sizing: border-box;
+border-radius: 6px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 32px;
+/* or 213% */
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 21px 31px;
+color: #4A4C53;
+background: #ffffff;
+
+mix-blend-mode: normal;
+}
+
+
+#Date{
+position: absolute;
+/*left: 29.5%;
+right: 66.75%;
+top: 11.45%;
+bottom: 88.37%;*/
+width: 220px;
+height: 52px;
+left: 441px;
+top: 619px;
+border: 0.8px solid #AFB0B9;
+box-sizing: border-box;
+border-radius: 6px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 32px;
+/* or 213% */
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 21px 31px;
+color: #4A4C53;
+background: #ffffff;
+
+mix-blend-mode: normal;
+}

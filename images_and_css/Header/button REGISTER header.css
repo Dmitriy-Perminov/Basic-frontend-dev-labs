@@ -1,0 +1,25 @@
+#Register{
+
+position: absolute;
+left: 1278px;
+top: 35px;
+width: 132px;
+height: 60px;
+border: 1px solid #ffffff;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 60px;
+/* identical to box height, or 400% */
+display: flex;
+align-items: center;
+justify-content: center;
+
+color: #FFFFFF;
+background: #FB8F1D;
+border-radius: 8px;
+
+mix-blend-mode: normal;
+}

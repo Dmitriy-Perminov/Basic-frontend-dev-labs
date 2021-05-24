@@ -1,0 +1,70 @@
+#Testimonials{
+position: absolute;
+left: 240px;
+top: 3398px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+text-align: center;
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+#Quisque{
+position: absolute;
+left: 240px;
+top: 3647px;
+width: 450px;
+height: 144px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+/* or 150% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+#Edward{
+position: absolute;
+left: 240px;
+top: 3831px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 48px;
+/* identical to box height, or 218% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+#Founder{
+position: absolute;
+left: 240px;
+top: 3866px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 48px;
+/* identical to box height, or 267% */
+
+color: rgba(0, 0, 0, 0.85);
+
+mix-blend-mode: normal;
+}

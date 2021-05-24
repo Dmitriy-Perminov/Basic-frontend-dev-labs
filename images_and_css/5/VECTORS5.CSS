@@ -1,0 +1,55 @@
+#stars{
+position: absolute;
+left: 240px;
+top: 3593px;
+}
+
+
+#photo
+{
+position: absolute;
+left: 859.16px;
+top: 3491px;
+}
+
+#next
+{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1218px;
+top: 3959px;
+
+background: #ffffff;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+
+#previous
+{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1156px;
+top: 3959px;
+
+background: #ffffff;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 2px solid #D7D7D7;
+box-sizing: border-box;
+}
+
+#Vector_5
+{
+position: absolute;
+left: 96px;
+top: 3697px;
+}

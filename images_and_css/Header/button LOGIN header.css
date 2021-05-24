@@ -1,0 +1,25 @@
+#Login{
+position: absolute;
+left: 1128px;
+top: 35px;
+width: 132px;
+height: 60px;
+border: 1px solid #FB8F1D;
+box-sizing: border-box;
+border-radius: 8px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 60px;
+/* identical to box height, or 400% */
+display: flex;
+align-items: center;
+justify-content: center;
+
+color: #FB8F1D;
+background-color: #FFFFFF;
+
+mix-blend-mode: normal;
+}

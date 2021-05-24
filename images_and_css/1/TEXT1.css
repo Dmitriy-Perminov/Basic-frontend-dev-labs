@@ -1,0 +1,37 @@
+#Explore{
+
+position: absolute;
+left: 189px;
+width: 356px;
+height: 160px;
+top: 200px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 80px;
+/* or 125% */
+
+color: #202336;
+
+mix-blend-mode: normal;
+}
+
+#Holiday{
+
+position: absolute;
+left: 191px;
+width: 149px;
+height: 27px;
+top: 434px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+color: #202336;
+}

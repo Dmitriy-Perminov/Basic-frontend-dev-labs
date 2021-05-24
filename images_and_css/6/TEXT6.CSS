@@ -1,0 +1,182 @@
+#Trending{ 
+
+position: absolute;
+left: 240px;
+top: 4284px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+#View_all2{ 
+
+position: absolute;
+width: 79px;
+height: 60px;
+left: 1281px;
+top: 4284px;
+}
+
+
+.black2{
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 30px;
+/* or 158% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+
+.grey2{
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 26px;
+/* or 173% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+}
+
+
+#t11{
+position: absolute;
+left: 240px;
+top: 4634px;
+width: 261px;
+height: 60px;
+}
+
+#t21{
+position: absolute;
+left: 240px;
+top: 4707px;
+width: 261px;
+height: 78px;
+}
+
+#t12{
+position: absolute;
+left: 526px;
+top: 4634px;
+width: 261px;
+height: 60px;
+}
+
+#t22{
+position: absolute;
+left: 526px;
+top: 4707px;
+width: 261px;
+height: 78px;
+}
+#t13{
+position: absolute;
+left: 813px;
+top: 4634px;
+width: 261px;
+height: 60px;
+}
+
+#t23{
+position: absolute;
+left: 813px;
+top: 4707px;
+width: 261px;
+height: 78px;
+}
+
+#t14{
+position: absolute;
+left: 1099px;
+top: 4634px;
+width: 261px;
+height: 60px;
+}
+
+#t24{
+position: absolute;
+left: 1099px;
+top: 4707px;
+width: 261px;
+height: 78px;
+}
+
+
+#Read_more1{
+
+    position: absolute;
+    left: 240px;
+    top: 4808px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 28px;
+    
+    mix-blend-mode: normal;
+}
+
+
+#Read_more2{
+
+    position: absolute;
+    left: 526px;
+    top: 4808px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 28px;
+    
+    mix-blend-mode: normal;
+}
+
+
+
+#Read_more3{
+
+    position: absolute;
+    left: 813px;
+    top: 4808px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 28px;
+    
+    mix-blend-mode: normal;
+}
+
+#Read_more4{
+
+position: absolute;
+left: 1099px;
+top: 4808px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 28px;
+
+mix-blend-mode: normal;
+}

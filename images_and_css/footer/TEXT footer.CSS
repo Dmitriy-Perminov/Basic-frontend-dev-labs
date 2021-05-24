@@ -1,0 +1,114 @@
+.black3{
+font-family: Mulish;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 60px;
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+.grey3{
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 38px;
+color: #848484;
+
+mix-blend-mode: normal;
+}
+
+#c1{
+position: absolute;
+left: 689px;
+top: 5236px;
+width: 124px;
+height: 190px;
+}
+
+#c2{
+position: absolute;
+left: 962px;
+top: 5236px;
+width: 160px;
+height: 190px;
+}
+
+#c3{
+position: absolute;
+left: 1249px;
+top: 5236px;
+width: 171px;
+height: 190px;
+}
+
+
+
+#Destinations2{ 
+position: absolute;
+left: 689px;
+top: 5177px;
+}
+
+#Shop{
+position: absolute;
+left: 962px;
+top: 5177px;
+}
+
+#Interests{
+position: absolute;
+left: 1249px;
+top: 5177px;
+}
+
+
+#Plan{
+position: absolute;
+left: 190px;
+top: 5255px;
+width: 311px;
+height: 84px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+color: #848484;
+
+mix-blend-mode: normal;
+}
+
+#end{
+position: absolute;
+left: 190px;
+top: 5394px;
+width: 347px;
+height: 28px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 28px;
+/* identical to box height, or 165% */
+
+color: #848484;
+
+mix-blend-mode: normal;
+}
+
+footer{
+position: absolute;
+/*left: 0;*/
+top: 5107px;
+width: 99.49%;
+height: 482px;
+
+background: #F9F9FB;
+}

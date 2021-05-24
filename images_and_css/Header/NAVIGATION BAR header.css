@@ -1,0 +1,62 @@
+#Home{
+position: absolute;
+left: 46.69%;
+right: 50.44%;
+top: 56px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #202336;
+}
+
+
+#Destinations{
+position: absolute;
+left: 51.75%;
+right: 42.31%;
+top: 56px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #B8BECD;
+}
+
+
+#About{
+position: absolute;
+left: 59.81%;
+right: 37.31%;
+top: 56px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #B8BECD;
+}
+
+
+#Parther{
+position: absolute;
+left: 64.81%;
+right: 31.62%;
+top: 56px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #B8BECD;
+}

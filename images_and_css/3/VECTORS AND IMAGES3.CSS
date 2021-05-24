@@ -1,0 +1,80 @@
+
+#Raja{
+position: absolute;
+width: 261px;
+height: 332px;
+top: 2039px;
+
+border-radius: 8px;
+border: 0.8px solid #ffffff;
+background: url("../3/Mask\ Group.svg");
+left: 240px;
+padding: 287px 0 0;
+
+}
+
+#Fanjingshan{
+position: absolute;
+width: 261px;
+height: 332px;
+top: 2039px;
+
+border-radius: 8px;
+border: 0.8px solid #ffffff;
+background: url("../3/Mask\ Group-1.svg");
+left: 526px;
+padding: 287px 0 0;
+
+}
+
+/* Rectangle 41 */
+#Vevey{
+    position: absolute;
+width: 261px;
+height: 332px;
+top: 2039px;
+
+border-radius: 8px;
+border: 0.8px solid #ffffff;
+    left: 813px;
+    background: url("../3/Mask\ Group-2.svg");
+    padding: 287px 0 0;
+}
+
+
+/* Rectangle 41 */
+
+#Skadar{
+    position: absolute;
+width: 261px;
+height: 332px;
+top: 2039px;
+
+border-radius: 8px;
+border: 0.8px solid #ffffff;
+    left: 1099px;
+    background: url("../3/Mask\ Group-3.svg");
+    padding: 287px 0 0;
+}
+
+
+#element3_3{ 
+
+position: absolute;
+left: 1169px;
+top: 1903px;
+}
+
+#element2_3{ 
+
+position: absolute;
+left: 743px;
+top: 2415px;
+}
+
+#element_3{ 
+
+position: absolute;
+left: 123.61px;
+top: 2232px;
+}

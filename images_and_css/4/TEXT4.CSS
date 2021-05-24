@@ -1,0 +1,62 @@
+#Download{
+position: absolute;
+left: 240px;
+top: 3009px;
+width: 164px;
+height: 60px;
+background: #FB8F1D;
+border-radius: 8px;
+border: 0.8px solid #ffffff;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 60px;
+/* identical to box height, or 375% */
+display: flex;
+align-items: center;
+justify-content: center;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+}
+
+#Guides{
+position: absolute;
+width: 481px;
+height: 100px;
+left: 240px;
+top: 2760px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* or 139% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+#Packed{
+position: absolute;
+width: 450px;
+height: 90px;
+left: 240px;
+top: 2880px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+}

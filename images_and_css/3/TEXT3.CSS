@@ -1,0 +1,100 @@
+#Featured{
+
+position: absolute;
+left: 240px;
+top: 1933px;
+width: 481px;
+height: 50px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+
+
+.black{
+/*position: absolute;*/
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 25px;
+/* or 147% */
+/*display: flex;
+/*align-items: flex-end;
+justify-content: flex-start;*/
+
+color: #042521;
+text-align: left;
+vertical-align: bottom;
+
+mix-blend-mode: normal;
+}
+
+.grey{
+   /* position: absolute;*/
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 24px;
+    /* or 147% */
+    /*display: flex;
+    /*align-items: flex-end;
+justify-content: flex-start;*/
+    
+    color: #80918E;
+    text-align: left;
+vertical-align: bottom;
+
+    mix-blend-mode: normal;
+    align-items: flex-end;
+}
+
+
+#Viev_all{
+
+position: absolute;
+/*left: 80.06%;
+right: 15.94%;
+top: 34.59%;
+bottom: 64.33%;*/
+width: 79px;
+height: 60px;
+left: 1281px;
+top: 1933px;
+
+}
+A:link { 
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    /* identical to box height, or 353% */
+    display: flex;
+    align-items: center;
+
+    color: #FB8F1D;
+
+    mix-blend-mode: normal;
+    justify-content: space-around;
+   } 
+   A:visited { text-decoration: none;
+    color: #FB8F1D; } 
+   A:active { text-decoration: none;
+    color: #FB8F1D; }
+   A:hover {
+    text-decoration: underline; /* Делает ссылку подчеркнутой при наведении на нее курсора */
+    color: #FB8F1D; /* Цвет ссылки */
+} 
